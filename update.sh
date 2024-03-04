@@ -16,4 +16,4 @@ done
 
 printf '}' >>sources.nix
 
-alejandra sources.nix
+nixfmt sources.nix
